@@ -1,0 +1,16 @@
+{
+  "name": "base-pairing",
+  "version": "1.0.0",
+  "description": "Simpel WhatsApp bot With @whiskeysockets baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dwi-Merajah",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "cross-fetch": "latest",
+    "moment-timezone": "^0.5.34"
+  }
+}
